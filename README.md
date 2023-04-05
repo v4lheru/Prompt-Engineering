@@ -1,6 +1,7 @@
 # Prompt Engineering Portfolio
 
-This repository is a collection of prompts developed by V4lheru as part of their journey in becoming a skilled prompt engineer. It showcases a variety of prompts created for different purposes, including natural language processing, data analysis, and more. The goal of this portfolio is to demonstrate the ability to craft high-quality prompts that effectively utilize AI models such as OpenAI's GPT series. Grow with me as I learn to prompt. 
+This repository is a collection of prompts developed by V4lheru as part of their journey in becoming a skilled prompt engineer. It showcases a variety of prompts created for different purposes, including natural language processing, data analysis, and more. The goal of this portfolio is to demonstrate the ability to craft high-quality prompts that effectively utilize AI models such as OpenAI's GPT series. 
+
 
 ## Table of Contents
 - [Getting Started](#getting-started)
