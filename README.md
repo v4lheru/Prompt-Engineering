@@ -15,7 +15,7 @@ This repository is a collection of prompts developed by V4lheru as part of their
 To get a local copy of the repository, simply clone it using the following command:
 
 ```bash
-git clone https://github.com/V4lheru/prompt-engineering-portfolio.git
+git clone https://github.com/V4lheru/prompt-engineering.git
 ```
 
 ## Usage
